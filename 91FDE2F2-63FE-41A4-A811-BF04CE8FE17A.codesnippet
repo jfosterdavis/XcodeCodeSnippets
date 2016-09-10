@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>dfunc</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    /**
+     &lt;#Description#&gt;
+     
+     - Parameters:
+        - &lt;#parameter#&gt;: &lt;#description#&gt;
+    
+     - Throws:
+        - `&lt;#Error#&gt;` &lt;#description#&gt;
+        - `&lt;#Error#&gt;` &lt;#description#&gt;
+     
+     - Returns:
+        - &lt;#returnValue#&gt;: &lt;#description#&gt;
+        - &lt;#returnValue#&gt;: &lt;#description#&gt;
+     */
+    func &lt;#funcName#&gt;(&lt;#parameter#&gt;) -&gt; &lt;#returnType#&gt; {
+        
+    } // end of &lt;#funcName#&gt;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>91FDE2F2-63FE-41A4-A811-BF04CE8FE17A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>A function with a leading description comment and trailing bracket named</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Function</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

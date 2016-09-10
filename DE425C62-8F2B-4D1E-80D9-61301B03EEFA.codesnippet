@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>dcf</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>/**
+     &lt;#Description#&gt;
+     
+     - Parameters:
+        - &lt;#parameter#&gt;: &lt;#description#&gt;
+    
+     - Throws:
+        - `&lt;#Error#&gt;` &lt;#description#&gt;
+        - `&lt;#Error#&gt;` &lt;#description#&gt;
+     
+     - Returns:
+        - &lt;#returnValue#&gt;: &lt;#description#&gt;
+        - &lt;#returnValue#&gt;: &lt;#description#&gt;
+*/</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DE425C62-8F2B-4D1E-80D9-61301B03EEFA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>A comment for a function</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Function Comment</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

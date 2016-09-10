@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>dcov</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>TopLevel</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>/**
+    Description of Item
+     
+    # Large Heading
+     
+    You can apply *italic*, **bold**, or `code` inline styles.
+     
+    ## SubHeading Unordered Lists
+     
+    - Lists are great,
+    - but perhaps don't nest
+    - Sub-list formatting
+        - isn't the best.
+     
+    ## Ordered Lists
+    1. Ordered lists, too
+    2. for things that are sorted;
+    3. Arabic numerals
+    4. are the only kind supported.
+ 
+    ```
+    // Code Block:
+    let perimeter = circle.radius * 2 * CGFloat(M_PI)
+    ```
+        //Another Code Block by tabbing out
+        somecode(ishere)
+ 
+    - Parameters:
+        - x: This is X
+        - y: This is Y
+ 
+    - Throws: `MyError.case` if _______
+ 
+    - Returns: The thing it returns
+ */</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3EE84339-E237-4F6E-8DBF-FFB3F4F370EE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>A Markup readable comment for an object, with verbose formatting</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Object Comment (Verbose)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
