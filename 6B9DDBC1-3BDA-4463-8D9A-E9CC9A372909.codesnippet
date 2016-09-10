@@ -3,24 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>dch</string>
+	<string>dcd</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/******************************************************/
-/******************* &lt;#Title#&gt; **************/
-/******************************************************/
-//MARK: - &lt;#Mark Description#&gt;</string>
+	<string>/** &lt;#Description#&gt; */</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>78D597D3-9359-4D21-9A2D-DE964840E2AC</string>
+	<string>6B9DDBC1-3BDA-4463-8D9A-E9CC9A372909</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>A heading that delineates code sections visually to developer</string>
+	<string>One line description for a property or function without returns, errors, or parameters</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Comment Heading</string>
+	<string>One-Line Description</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
