@@ -6,10 +6,10 @@
 	<string>dcd</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/** &lt;#Description#&gt; */</string>
+	<string>/// &lt;#Description#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6B9DDBC1-3BDA-4463-8D9A-E9CC9A372909</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -21,6 +21,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

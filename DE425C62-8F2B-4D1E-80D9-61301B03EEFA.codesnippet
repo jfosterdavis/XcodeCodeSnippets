@@ -20,8 +20,8 @@
         - `&lt;#Error#&gt;` &lt;#description#&gt;
      
      - Returns:
-        - &lt;#returnValue#&gt;: &lt;#description#&gt;
-        - &lt;#returnValue#&gt;: &lt;#description#&gt;
+        - `&lt;#returnValue#&gt;`: &lt;#description#&gt;
+        - `&lt;#returnValue#&gt;`: &lt;#description#&gt;
 */</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DE425C62-8F2B-4D1E-80D9-61301B03EEFA</string>
@@ -34,6 +34,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -20,9 +20,9 @@
         - `&lt;#Error#&gt;` &lt;#description#&gt;
      
      - Returns:
-        - &lt;#returnValue#&gt;: &lt;#description#&gt;
-        - &lt;#returnValue#&gt;: &lt;#description#&gt;
-     */
+        - `&lt;#returnValue#&gt;`: &lt;#description#&gt;
+        - `&lt;#returnValue#&gt;`: &lt;#description#&gt;
+*/
     func &lt;#funcName#&gt;(&lt;#parameter#&gt;) -&gt; &lt;#returnType#&gt; {
         
     } // end of &lt;#funcName#&gt;</string>
@@ -37,6 +37,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
